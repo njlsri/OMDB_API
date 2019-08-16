@@ -1,9 +1,9 @@
 # OMDB_API
-Purpose:  To get the rating of movies.
+**Purpose**:  To get the rating of movies.
 
-Environment: Operating System should be LINUX. Docker environment should be setup at the user end.
+**Environment**: Operating System should be LINUX. Docker environment should be setup at the user end.
 
-Procedure to run the script:
+**Procedure to run the script**:
 
 1. Pull the image:
 
@@ -34,4 +34,4 @@ Procedure to run the script:
    Movie name: Bharat
    Rotten Tomatoes Rating is 29%.
 
-Error handled: Movie name not found, API key wrong, Invalid movie name, Rotten tomatoes rating not available.
+**Error handled**: Movie name not found, API key wrong, Invalid movie name, Rotten tomatoes rating not available.
