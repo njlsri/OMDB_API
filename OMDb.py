@@ -2,6 +2,7 @@ import requests
 import json
 import sys
 
+
 try:
    try:
        movie = str(sys.argv[1])
