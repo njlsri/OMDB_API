@@ -32,6 +32,7 @@
 7. Output:
 
    Movie name: Bharat
+   
    Rotten Tomatoes Rating is 29%.
 
 **Error handled**: Movie name not found, API key wrong, Invalid movie name, Rotten tomatoes rating not available.
